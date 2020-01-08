@@ -5,4 +5,9 @@ hello class
 	{
 		System.out.println("Hello World!");
 	}
+	
+	//小白增加方法
+	public string test1{
+		System.out.println("你好");
+	}
 }
